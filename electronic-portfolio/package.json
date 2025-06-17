@@ -1,0 +1,22 @@
+{
+  "name": "electronic-portfolio",
+  "version": "1.0.0",
+  "description": "A personal electronic portfolio to showcase academic projects.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "portfolio",
+    "academic",
+    "projects"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
