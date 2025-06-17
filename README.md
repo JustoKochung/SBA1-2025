@@ -1,2 +1,0 @@
-# SBA1-2025
-Portfolio of KNEC SBA1 KTTC
